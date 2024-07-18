@@ -1,0 +1,3 @@
+D:/Github_repos/OpenMP-cpp/cmake-build-debug/CMakeFiles/OpenMP_cpp.dir
+D:/Github_repos/OpenMP-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Github_repos/OpenMP-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
