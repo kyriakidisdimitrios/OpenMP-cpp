@@ -5,8 +5,10 @@ This project demonstrates the usage of OpenMP in C++ for parallel programming.
 
 ## CPP files
 .cpp files have names like test1, test2 etc. I have the code annotated on file.
-Use ctrl+A, ctrl+/ to select all and add/remove comment
-
+Use ctrl+A, ctrl+/ to select all and add/remove comment and then run project or make a custom execution e.g.
+```bash
+g++ -fopenmp -o OpenMP_cpp test8_fibonacci.cpp
+```
 ## Requirements
 - CLion IDE
 - CMake
@@ -63,6 +65,10 @@ Use ctrl+A, ctrl+/ to select all and add/remove comment
 
 ## Troubleshooting
 - If you encounter build issues, double-check your CMake configuration and ensure your compiler supports OpenMP.
+
+## Author
+
+This example was created by [Kyriakidis Dimitrios](https://github.com/kyriakidisdimitrios).
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
