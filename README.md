@@ -68,7 +68,7 @@ g++ -fopenmp -o OpenMP_cpp test8_fibonacci.cpp
 
 ## Author
 
-This example was created by [Kyriakidis Dimitrios](https://github.com/kyriakidisdimitrios).
+These examples were created by [Kyriakidis Dimitrios](https://github.com/kyriakidisdimitrios).
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
