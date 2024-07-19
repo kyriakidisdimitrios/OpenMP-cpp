@@ -1,7 +1,7 @@
 # OpenMP-cpp
  
 ## Introduction
-This project demonstrates the usage of OpenMP in C++ for parallel programming.
+This project demonstrates the usage of OpenMP in C++ for parallel computing.
 
 ## CPP files
 .cpp files have names like test1, test2 etc. I have the code annotated on file.
