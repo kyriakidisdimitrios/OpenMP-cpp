@@ -25,6 +25,10 @@ add_executable(OpenMP_cpp
         test6_master_construct.cpp
         test6_single_construct.cpp
         test6_section_construct.cpp
+        test7.cpp
+        test7_construct_type.cpp
+        test8.cpp
+        test8_fibonacci.cpp
 )
 
 # Link OpenMP libraries

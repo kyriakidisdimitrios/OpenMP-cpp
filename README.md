@@ -1,5 +1,5 @@
 # OpenMP-cpp
-
+ 
 ## Introduction
 This project demonstrates the usage of OpenMP in C++ for parallel programming.
 

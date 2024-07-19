@@ -1,7 +1,7 @@
 # ninja log v6
 5	155	7430101097142817	CMakeFiles/OpenMP_cpp.dir/main.cpp.obj	af467e42cf965e87
-173	300	7430543938910645	OpenMP_cpp.exe	8d0fc810848d6db5
-7	1411	7430545271131187	build.ninja	4928f2882bbdc5f9
+216	399	7430576940198110	OpenMP_cpp.exe	8a032acf776b0a88
+7	1411	7430577352868591	build.ninja	4928f2882bbdc5f9
 4	131	7430430687618933	CMakeFiles/OpenMP_cpp.dir/test4.cpp.obj	52e8f06857594b39
 4	113	7430451227984838	CMakeFiles/OpenMP_cpp.dir/test4_critical.cpp.obj	25c7dd447ef17b0b
 56	508	7430429577814364	CMakeFiles/OpenMP_cpp.dir/test2.cpp.obj	65f23316d560d3e6
@@ -10,14 +10,15 @@
 5	214	7430491326889797	CMakeFiles/OpenMP_cpp.dir/test4_barrier.cpp.obj	9effb75307e190ac
 4	139	7430454340900903	CMakeFiles/OpenMP_cpp.dir/test_atomic.cpp.obj	b5d822e6bea1db85
 4	134	7430491525115654	CMakeFiles/OpenMP_cpp.dir/test4_atomic.cpp.obj	c48d74561db745eb
+5	315	7430561453535381	CMakeFiles/OpenMP_cpp.dir/test7.cpp.obj	3de4de5b730807b2
 5	662	7430509586657452	CMakeFiles/OpenMP_cpp.dir/test5.cpp.obj	1df13fba9e726435
+4	216	7430576938084909	CMakeFiles/OpenMP_cpp.dir/test8.cpp.obj	c91e0c793e7e300e
 2	196	7430518970447118	CMakeFiles/OpenMP_cpp.dir/test6.cpp.obj	22de3a697f7afe2f
 3	259	7430536227971495	CMakeFiles/OpenMP_cpp.dir/test6_omp_construct.cpp.obj	aca70e0a2134a3e6
 4	173	7430543937226738	CMakeFiles/OpenMP_cpp.dir/test6_master_construct.cpp.obj	c4f6988d206af8d7
-5	126	7430543866355041	CMakeFiles/OpenMP_cpp.dir/test6_single_construct.cpp.obj	e2685bc94970dcd3
 4	169	7430546675920136	CMakeFiles/OpenMP_cpp.dir/test6_single_construct.cpp.obj	e2685bc94970dcd3
-3	130	7430547350923201	CMakeFiles/OpenMP_cpp.dir/test6_section_construct.cpp.obj	ebb6616500071f28
-130	292	7430547352192914	OpenMP_cpp.exe	7bcdb7dba5c39020
-3	137	7430547576955403	CMakeFiles/OpenMP_cpp.dir/test6_section_construct.cpp.obj	ebb6616500071f28
-2	146	7430547910975337	CMakeFiles/OpenMP_cpp.dir/test6_section_construct.cpp.obj	ebb6616500071f28
-146	275	7430547912419187	OpenMP_cpp.exe	7bcdb7dba5c39020
+5	136	7430562310873070	CMakeFiles/OpenMP_cpp.dir/test6_section_construct.cpp.obj	ebb6616500071f28
+5	180	7430573568284085	CMakeFiles/OpenMP_cpp.dir/test7_construct_type.cpp.obj	53ccb2aeaefb9af6
+4	231	7430581727924885	CMakeFiles/OpenMP_cpp.dir/test8.cpp.obj	c91e0c793e7e300e
+2	134	7430582556827818	CMakeFiles/OpenMP_cpp.dir/test8_fibonacci.cpp.obj	8ddf4669a9421e8c
+135	275	7430582558149733	OpenMP_cpp.exe	d665c660b3597151
