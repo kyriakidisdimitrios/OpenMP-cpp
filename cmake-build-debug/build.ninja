@@ -73,6 +73,66 @@ build CMakeFiles/OpenMP_cpp.dir/test3.cpp.obj: CXX_COMPILER__OpenMP_cpp_unscanne
   OBJECT_DIR = CMakeFiles\OpenMP_cpp.dir
   OBJECT_FILE_DIR = CMakeFiles\OpenMP_cpp.dir
 
+build CMakeFiles/OpenMP_cpp.dir/test4.cpp.obj: CXX_COMPILER__OpenMP_cpp_unscanned_Debug D$:/Github_repos/OpenMP-cpp/test4.cpp || cmake_object_order_depends_target_OpenMP_cpp
+  DEP_FILE = CMakeFiles\OpenMP_cpp.dir\test4.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -fopenmp
+  OBJECT_DIR = CMakeFiles\OpenMP_cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\OpenMP_cpp.dir
+
+build CMakeFiles/OpenMP_cpp.dir/test4_critical.cpp.obj: CXX_COMPILER__OpenMP_cpp_unscanned_Debug D$:/Github_repos/OpenMP-cpp/test4_critical.cpp || cmake_object_order_depends_target_OpenMP_cpp
+  DEP_FILE = CMakeFiles\OpenMP_cpp.dir\test4_critical.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -fopenmp
+  OBJECT_DIR = CMakeFiles\OpenMP_cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\OpenMP_cpp.dir
+
+build CMakeFiles/OpenMP_cpp.dir/test4_barrier.cpp.obj: CXX_COMPILER__OpenMP_cpp_unscanned_Debug D$:/Github_repos/OpenMP-cpp/test4_barrier.cpp || cmake_object_order_depends_target_OpenMP_cpp
+  DEP_FILE = CMakeFiles\OpenMP_cpp.dir\test4_barrier.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -fopenmp
+  OBJECT_DIR = CMakeFiles\OpenMP_cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\OpenMP_cpp.dir
+
+build CMakeFiles/OpenMP_cpp.dir/test4_atomic.cpp.obj: CXX_COMPILER__OpenMP_cpp_unscanned_Debug D$:/Github_repos/OpenMP-cpp/test4_atomic.cpp || cmake_object_order_depends_target_OpenMP_cpp
+  DEP_FILE = CMakeFiles\OpenMP_cpp.dir\test4_atomic.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -fopenmp
+  OBJECT_DIR = CMakeFiles\OpenMP_cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\OpenMP_cpp.dir
+
+build CMakeFiles/OpenMP_cpp.dir/test5.cpp.obj: CXX_COMPILER__OpenMP_cpp_unscanned_Debug D$:/Github_repos/OpenMP-cpp/test5.cpp || cmake_object_order_depends_target_OpenMP_cpp
+  DEP_FILE = CMakeFiles\OpenMP_cpp.dir\test5.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -fopenmp
+  OBJECT_DIR = CMakeFiles\OpenMP_cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\OpenMP_cpp.dir
+
+build CMakeFiles/OpenMP_cpp.dir/test6.cpp.obj: CXX_COMPILER__OpenMP_cpp_unscanned_Debug D$:/Github_repos/OpenMP-cpp/test6.cpp || cmake_object_order_depends_target_OpenMP_cpp
+  DEP_FILE = CMakeFiles\OpenMP_cpp.dir\test6.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -fopenmp
+  OBJECT_DIR = CMakeFiles\OpenMP_cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\OpenMP_cpp.dir
+
+build CMakeFiles/OpenMP_cpp.dir/test6_omp_construct.cpp.obj: CXX_COMPILER__OpenMP_cpp_unscanned_Debug D$:/Github_repos/OpenMP-cpp/test6_omp_construct.cpp || cmake_object_order_depends_target_OpenMP_cpp
+  DEP_FILE = CMakeFiles\OpenMP_cpp.dir\test6_omp_construct.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -fopenmp
+  OBJECT_DIR = CMakeFiles\OpenMP_cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\OpenMP_cpp.dir
+
+build CMakeFiles/OpenMP_cpp.dir/test6_master_construct.cpp.obj: CXX_COMPILER__OpenMP_cpp_unscanned_Debug D$:/Github_repos/OpenMP-cpp/test6_master_construct.cpp || cmake_object_order_depends_target_OpenMP_cpp
+  DEP_FILE = CMakeFiles\OpenMP_cpp.dir\test6_master_construct.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -fopenmp
+  OBJECT_DIR = CMakeFiles\OpenMP_cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\OpenMP_cpp.dir
+
+build CMakeFiles/OpenMP_cpp.dir/test6_single_construct.cpp.obj: CXX_COMPILER__OpenMP_cpp_unscanned_Debug D$:/Github_repos/OpenMP-cpp/test6_single_construct.cpp || cmake_object_order_depends_target_OpenMP_cpp
+  DEP_FILE = CMakeFiles\OpenMP_cpp.dir\test6_single_construct.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -fopenmp
+  OBJECT_DIR = CMakeFiles\OpenMP_cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\OpenMP_cpp.dir
+
+build CMakeFiles/OpenMP_cpp.dir/test6_section_construct.cpp.obj: CXX_COMPILER__OpenMP_cpp_unscanned_Debug D$:/Github_repos/OpenMP-cpp/test6_section_construct.cpp || cmake_object_order_depends_target_OpenMP_cpp
+  DEP_FILE = CMakeFiles\OpenMP_cpp.dir\test6_section_construct.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -fopenmp
+  OBJECT_DIR = CMakeFiles\OpenMP_cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\OpenMP_cpp.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target OpenMP_cpp
@@ -81,7 +141,7 @@ build CMakeFiles/OpenMP_cpp.dir/test3.cpp.obj: CXX_COMPILER__OpenMP_cpp_unscanne
 #############################################
 # Link the executable OpenMP_cpp.exe
 
-build OpenMP_cpp.exe: CXX_EXECUTABLE_LINKER__OpenMP_cpp_Debug CMakeFiles/OpenMP_cpp.dir/main.cpp.obj CMakeFiles/OpenMP_cpp.dir/test1.cpp.obj CMakeFiles/OpenMP_cpp.dir/test2.cpp.obj CMakeFiles/OpenMP_cpp.dir/test3.cpp.obj | C$:/Users/jimbo/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/libgomp.dll.a C$:/Users/jimbo/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/lib/libmingwthrd.a
+build OpenMP_cpp.exe: CXX_EXECUTABLE_LINKER__OpenMP_cpp_Debug CMakeFiles/OpenMP_cpp.dir/main.cpp.obj CMakeFiles/OpenMP_cpp.dir/test1.cpp.obj CMakeFiles/OpenMP_cpp.dir/test2.cpp.obj CMakeFiles/OpenMP_cpp.dir/test3.cpp.obj CMakeFiles/OpenMP_cpp.dir/test4.cpp.obj CMakeFiles/OpenMP_cpp.dir/test4_critical.cpp.obj CMakeFiles/OpenMP_cpp.dir/test4_barrier.cpp.obj CMakeFiles/OpenMP_cpp.dir/test4_atomic.cpp.obj CMakeFiles/OpenMP_cpp.dir/test5.cpp.obj CMakeFiles/OpenMP_cpp.dir/test6.cpp.obj CMakeFiles/OpenMP_cpp.dir/test6_omp_construct.cpp.obj CMakeFiles/OpenMP_cpp.dir/test6_master_construct.cpp.obj CMakeFiles/OpenMP_cpp.dir/test6_single_construct.cpp.obj CMakeFiles/OpenMP_cpp.dir/test6_section_construct.cpp.obj | C$:/Users/jimbo/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/libgomp.dll.a C$:/Users/jimbo/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/lib/libmingwthrd.a
   FLAGS = -g
   LINK_LIBRARIES = C:/Users/jimbo/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/libgomp.dll.a  C:/Users/jimbo/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/lib/libmingwthrd.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\OpenMP_cpp.dir

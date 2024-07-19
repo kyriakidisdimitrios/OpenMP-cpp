@@ -13,6 +13,18 @@ add_executable(OpenMP_cpp
         test1.cpp
         test2.cpp
         test3.cpp
+        test4.cpp
+        test4.cpp
+        test4_critical.cpp
+        test4_barrier.cpp
+        test4_atomic.cpp
+        test4_atomic.cpp
+        test5.cpp
+        test6.cpp
+        test6_omp_construct.cpp
+        test6_master_construct.cpp
+        test6_single_construct.cpp
+        test6_section_construct.cpp
 )
 
 # Link OpenMP libraries

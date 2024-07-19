@@ -3,6 +3,10 @@
 ## Introduction
 This project demonstrates the usage of OpenMP in C++ for parallel programming.
 
+## CPP files
+.cpp files have names like test1, test2 etc. I have the code annotated on file.
+Use ctrl+A, ctrl+/ to select all and add/remove comment
+
 ## Requirements
 - CLion IDE
 - CMake
